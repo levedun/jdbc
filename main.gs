@@ -3,7 +3,7 @@
 function getJdbcReadConnPrms(){
   return {
     bdurl:  'host',
-    port:    3306,
+    port:   '3306',
     bdname: 'bdname',
     usname: 'usname',
     pass:   'password',
